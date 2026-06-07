@@ -1,0 +1,5 @@
+name: 'subhan' # string
+age: 17 # int
+status: on # bool
+weight: 135.67  # float
+
