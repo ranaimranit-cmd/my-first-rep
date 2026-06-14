@@ -1,2 +1,6 @@
 git gui
+<<<<<<< HEAD
 changes done by test1 branch
+=======
+changes done by test2
+>>>>>>> test2
